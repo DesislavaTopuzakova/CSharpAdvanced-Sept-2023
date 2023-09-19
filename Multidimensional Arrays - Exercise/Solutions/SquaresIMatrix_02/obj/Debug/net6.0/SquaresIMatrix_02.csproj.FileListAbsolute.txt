@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\bin\Debug\net6.0\SquaresIMatrix_02.exe
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\bin\Debug\net6.0\SquaresIMatrix_02.deps.json
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\bin\Debug\net6.0\SquaresIMatrix_02.runtimeconfig.json
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\bin\Debug\net6.0\SquaresIMatrix_02.dll
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\bin\Debug\net6.0\SquaresIMatrix_02.pdb
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\obj\Debug\net6.0\SquaresIMatrix_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\obj\Debug\net6.0\SquaresIMatrix_02.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\obj\Debug\net6.0\SquaresIMatrix_02.AssemblyInfo.cs
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\obj\Debug\net6.0\SquaresIMatrix_02.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\obj\Debug\net6.0\SquaresIMatrix_02.dll
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\obj\Debug\net6.0\refint\SquaresIMatrix_02.dll
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\obj\Debug\net6.0\SquaresIMatrix_02.pdb
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\obj\Debug\net6.0\SquaresIMatrix_02.genruntimeconfig.cache
+C:\Users\I353529\source\repos\MultidimensionalArrays\SquaresIMatrix_02\obj\Debug\net6.0\ref\SquaresIMatrix_02.dll

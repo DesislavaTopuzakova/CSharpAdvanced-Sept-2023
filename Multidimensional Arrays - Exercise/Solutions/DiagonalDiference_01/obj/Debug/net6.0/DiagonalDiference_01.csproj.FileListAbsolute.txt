@@ -1,0 +1,4 @@
+C:\Users\I353529\source\repos\MultidimensionalArrays\DiagonalDiference_01\obj\Debug\net6.0\DiagonalDiference_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\MultidimensionalArrays\DiagonalDiference_01\obj\Debug\net6.0\DiagonalDiference_01.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\MultidimensionalArrays\DiagonalDiference_01\obj\Debug\net6.0\DiagonalDiference_01.AssemblyInfo.cs
+C:\Users\I353529\source\repos\MultidimensionalArrays\DiagonalDiference_01\obj\Debug\net6.0\DiagonalDiference_01.csproj.CoreCompileInputs.cache

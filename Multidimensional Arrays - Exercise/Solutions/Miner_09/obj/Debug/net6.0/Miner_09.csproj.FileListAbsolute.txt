@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\bin\Debug\net6.0\Miner_09.exe
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\bin\Debug\net6.0\Miner_09.deps.json
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\bin\Debug\net6.0\Miner_09.runtimeconfig.json
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\bin\Debug\net6.0\Miner_09.dll
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\bin\Debug\net6.0\Miner_09.pdb
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\obj\Debug\net6.0\Miner_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\obj\Debug\net6.0\Miner_09.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\obj\Debug\net6.0\Miner_09.AssemblyInfo.cs
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\obj\Debug\net6.0\Miner_09.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\obj\Debug\net6.0\Miner_09.dll
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\obj\Debug\net6.0\refint\Miner_09.dll
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\obj\Debug\net6.0\Miner_09.pdb
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\obj\Debug\net6.0\Miner_09.genruntimeconfig.cache
+C:\Users\I353529\source\repos\MultidimensionalArrays\Miner_09\obj\Debug\net6.0\ref\Miner_09.dll

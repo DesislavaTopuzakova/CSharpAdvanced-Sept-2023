@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SquaresIMatrix_02/1.0.0": {
+        "runtime": {
+          "SquaresIMatrix_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SquaresIMatrix_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
