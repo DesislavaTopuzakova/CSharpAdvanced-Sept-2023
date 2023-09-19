@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\DictionariesAndSets\03\bin\Debug\net7.0\03.exe
+C:\Users\I353529\source\repos\DictionariesAndSets\03\bin\Debug\net7.0\03.deps.json
+C:\Users\I353529\source\repos\DictionariesAndSets\03\bin\Debug\net7.0\03.runtimeconfig.json
+C:\Users\I353529\source\repos\DictionariesAndSets\03\bin\Debug\net7.0\03.dll
+C:\Users\I353529\source\repos\DictionariesAndSets\03\bin\Debug\net7.0\03.pdb
+C:\Users\I353529\source\repos\DictionariesAndSets\03\obj\Debug\net7.0\03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\DictionariesAndSets\03\obj\Debug\net7.0\03.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\DictionariesAndSets\03\obj\Debug\net7.0\03.AssemblyInfo.cs
+C:\Users\I353529\source\repos\DictionariesAndSets\03\obj\Debug\net7.0\03.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\DictionariesAndSets\03\obj\Debug\net7.0\03.dll
+C:\Users\I353529\source\repos\DictionariesAndSets\03\obj\Debug\net7.0\refint\03.dll
+C:\Users\I353529\source\repos\DictionariesAndSets\03\obj\Debug\net7.0\03.pdb
+C:\Users\I353529\source\repos\DictionariesAndSets\03\obj\Debug\net7.0\03.genruntimeconfig.cache
+C:\Users\I353529\source\repos\DictionariesAndSets\03\obj\Debug\net7.0\ref\03.dll

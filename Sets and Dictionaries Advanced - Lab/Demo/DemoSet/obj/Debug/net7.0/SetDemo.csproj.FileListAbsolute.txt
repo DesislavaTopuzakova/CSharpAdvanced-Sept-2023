@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\bin\Debug\net7.0\SetDemo.exe
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\bin\Debug\net7.0\SetDemo.deps.json
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\bin\Debug\net7.0\SetDemo.runtimeconfig.json
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\bin\Debug\net7.0\SetDemo.dll
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\bin\Debug\net7.0\SetDemo.pdb
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\obj\Debug\net7.0\SetDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\obj\Debug\net7.0\SetDemo.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\obj\Debug\net7.0\SetDemo.AssemblyInfo.cs
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\obj\Debug\net7.0\SetDemo.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\obj\Debug\net7.0\SetDemo.dll
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\obj\Debug\net7.0\refint\SetDemo.dll
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\obj\Debug\net7.0\SetDemo.pdb
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\obj\Debug\net7.0\SetDemo.genruntimeconfig.cache
+C:\Users\I353529\source\repos\DictionariesAndSets\SetDemo\obj\Debug\net7.0\ref\SetDemo.dll

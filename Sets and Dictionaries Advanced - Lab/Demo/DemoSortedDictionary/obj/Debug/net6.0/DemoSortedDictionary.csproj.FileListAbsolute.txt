@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\bin\Debug\net6.0\DemoSortedDictionary.exe
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\bin\Debug\net6.0\DemoSortedDictionary.deps.json
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\bin\Debug\net6.0\DemoSortedDictionary.runtimeconfig.json
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\bin\Debug\net6.0\DemoSortedDictionary.dll
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\bin\Debug\net6.0\DemoSortedDictionary.pdb
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\obj\Debug\net6.0\DemoSortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\obj\Debug\net6.0\DemoSortedDictionary.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\obj\Debug\net6.0\DemoSortedDictionary.AssemblyInfo.cs
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\obj\Debug\net6.0\DemoSortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\obj\Debug\net6.0\DemoSortedDictionary.dll
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\obj\Debug\net6.0\refint\DemoSortedDictionary.dll
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\obj\Debug\net6.0\DemoSortedDictionary.pdb
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\obj\Debug\net6.0\DemoSortedDictionary.genruntimeconfig.cache
+C:\Users\I353529\source\repos\DictionariesAndSets\DemoSortedDictionary\obj\Debug\net6.0\ref\DemoSortedDictionary.dll
